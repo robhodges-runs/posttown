@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "postTown": "Paisley",
+      "title": "We've found buyers for these Paisley properties",
+      "summary": "Five homes across Paisley went under offer this week, from starter flats to family semis.",
+      "propertyCount": 5,
+      "imageUrl": "https://placehold.co/600x400/6e2c6e/ffffff?text=Paisley",
+      "ctaUrl": "https://www.purplebricks.co.uk/sell/property-valuation"
+    },
+    {
+      "postTown": "Glasgow",
+      "title": "We've found buyers for these Glasgow properties",
+      "summary": "Strong demand in the West End pushed seven Glasgow sales over the line this month.",
+      "propertyCount": 7,
+      "imageUrl": "https://placehold.co/600x400/2c4e6e/ffffff?text=Glasgow",
+      "ctaUrl": "https://www.purplebricks.co.uk/sell/property-valuation"
+    },
+    {
+      "postTown": "Renfrew",
+      "title": "We've found buyers for these Renfrew properties",
+      "summary": "Three Renfrew properties sold within days of listing, all above asking price.",
+      "propertyCount": 3,
+      "imageUrl": "https://placehold.co/600x400/2c6e4e/ffffff?text=Renfrew",
+      "ctaUrl": "https://www.purplebricks.co.uk/sell/property-valuation"
+    },
+    {
+      "postTown": "Bearsden",
+      "title": "We've found buyers for these Bearsden properties",
+      "summary": "Bearsden's larger family homes continue to attract quick offers, with four sold this week.",
+      "propertyCount": 4,
+      "imageUrl": "https://placehold.co/600x400/6e5e2c/ffffff?text=Bearsden",
+      "ctaUrl": "https://www.purplebricks.co.uk/sell/property-valuation"
+    },
+    {
+      "postTown": "Johnstone",
+      "title": "We've found buyers for these Johnstone properties",
+      "summary": "Two Johnstone properties found buyers this week, both within the first fortnight of listing.",
+      "propertyCount": 2,
+      "imageUrl": "https://placehold.co/600x400/6e2c3e/ffffff?text=Johnstone",
+      "ctaUrl": "https://www.purplebricks.co.uk/sell/property-valuation"
+    }
+  ]
+}
