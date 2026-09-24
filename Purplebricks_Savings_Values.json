@@ -1,0 +1,1938 @@
+{
+  "rss": {
+    "channel": {
+      "item": [
+        {
+          "savings_valuation_amount": 100000,
+          "savings_high_street_fee": 1560,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 561,
+          "savings_percentage_of_valuation": 0.00561,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 110000,
+          "savings_high_street_fee": 1716,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 717,
+          "savings_percentage_of_valuation": 0.006518181818181818,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 120000,
+          "savings_high_street_fee": 1872,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 873,
+          "savings_percentage_of_valuation": 0.007275,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 130000,
+          "savings_high_street_fee": 2028,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1029,
+          "savings_percentage_of_valuation": 0.007915384615384616,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 140000,
+          "savings_high_street_fee": 2184,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1185,
+          "savings_percentage_of_valuation": 0.008464285714285714,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 150000,
+          "savings_high_street_fee": 2340,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1341,
+          "savings_percentage_of_valuation": 0.00894,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 160000,
+          "savings_high_street_fee": 2496,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1497,
+          "savings_percentage_of_valuation": 0.00935625,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 170000,
+          "savings_high_street_fee": 2652,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1653,
+          "savings_percentage_of_valuation": 0.009723529411764706,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 180000,
+          "savings_high_street_fee": 2808,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1809,
+          "savings_percentage_of_valuation": 0.01005,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 190000,
+          "savings_high_street_fee": 2964,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 1965,
+          "savings_percentage_of_valuation": 0.010342105263157896,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 200000,
+          "savings_high_street_fee": 3120,
+          "savings_purplebricks_fee": 999,
+          "savings_amount": 2121,
+          "savings_percentage_of_valuation": 0.010605,
+          "savings_property_value_tier": "Up to 200000",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 200001,
+          "savings_high_street_fee": 3120,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 1821,
+          "savings_percentage_of_valuation": 0.009104954475227623,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 210000,
+          "savings_high_street_fee": 3276,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 1977,
+          "savings_percentage_of_valuation": 0.009414285714285714,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 220000,
+          "savings_high_street_fee": 3432,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 2133,
+          "savings_percentage_of_valuation": 0.009695454545454545,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 230000,
+          "savings_high_street_fee": 3588,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 2289,
+          "savings_percentage_of_valuation": 0.009952173913043478,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 240000,
+          "savings_high_street_fee": 3744,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 2445,
+          "savings_percentage_of_valuation": 0.0101875,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 250000,
+          "savings_high_street_fee": 3900,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 2601,
+          "savings_percentage_of_valuation": 0.010404,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 260000,
+          "savings_high_street_fee": 4056,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 2757,
+          "savings_percentage_of_valuation": 0.010603846153846155,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 270000,
+          "savings_high_street_fee": 4212,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 2913,
+          "savings_percentage_of_valuation": 0.01078888888888889,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 280000,
+          "savings_high_street_fee": 4368,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 3069,
+          "savings_percentage_of_valuation": 0.010960714285714285,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 290000,
+          "savings_high_street_fee": 4524,
+          "savings_purplebricks_fee": 1299,
+          "savings_amount": 3225,
+          "savings_percentage_of_valuation": 0.011120689655172414,
+          "savings_property_value_tier": "200001-299999",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 300000,
+          "savings_high_street_fee": 4680,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3081,
+          "savings_percentage_of_valuation": 0.01027,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 300001,
+          "savings_high_street_fee": 4680,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3081,
+          "savings_percentage_of_valuation": 0.010269965766780777,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 310000,
+          "savings_high_street_fee": 4836,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3237,
+          "savings_percentage_of_valuation": 0.010441935483870967,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 320000,
+          "savings_high_street_fee": 4992,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3393,
+          "savings_percentage_of_valuation": 0.010603125,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 330000,
+          "savings_high_street_fee": 5148,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3549,
+          "savings_percentage_of_valuation": 0.010754545454545454,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 340000,
+          "savings_high_street_fee": 5304,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3705,
+          "savings_percentage_of_valuation": 0.010897058823529412,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 350000,
+          "savings_high_street_fee": 5460,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 3861,
+          "savings_percentage_of_valuation": 0.011031428571428572,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 360000,
+          "savings_high_street_fee": 5616,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4017,
+          "savings_percentage_of_valuation": 0.011158333333333333,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 370000,
+          "savings_high_street_fee": 5772,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4173,
+          "savings_percentage_of_valuation": 0.011278378378378378,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 380000,
+          "savings_high_street_fee": 5928,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4329,
+          "savings_percentage_of_valuation": 0.011392105263157894,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 390000,
+          "savings_high_street_fee": 6084,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4485,
+          "savings_percentage_of_valuation": 0.0115,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 400000,
+          "savings_high_street_fee": 6240,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4641,
+          "savings_percentage_of_valuation": 0.0116025,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 410000,
+          "savings_high_street_fee": 6396,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4797,
+          "savings_percentage_of_valuation": 0.0117,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 420000,
+          "savings_high_street_fee": 6552,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 4953,
+          "savings_percentage_of_valuation": 0.011792857142857143,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 430000,
+          "savings_high_street_fee": 6708,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 5109,
+          "savings_percentage_of_valuation": 0.011881395348837209,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 440000,
+          "savings_high_street_fee": 6864,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 5265,
+          "savings_percentage_of_valuation": 0.011965909090909091,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 450000,
+          "savings_high_street_fee": 7020,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 5421,
+          "savings_percentage_of_valuation": 0.012046666666666667,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 460000,
+          "savings_high_street_fee": 7176,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 5577,
+          "savings_percentage_of_valuation": 0.012123913043478261,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 470000,
+          "savings_high_street_fee": 7332,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 5733,
+          "savings_percentage_of_valuation": 0.012197872340425532,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 480000,
+          "savings_high_street_fee": 7488,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 5889,
+          "savings_percentage_of_valuation": 0.01226875,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 490000,
+          "savings_high_street_fee": 7644,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6045,
+          "savings_percentage_of_valuation": 0.012336734693877551,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 500000,
+          "savings_high_street_fee": 7800,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6201,
+          "savings_percentage_of_valuation": 0.012402,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 510000,
+          "savings_high_street_fee": 7956,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6357,
+          "savings_percentage_of_valuation": 0.012464705882352942,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 520000,
+          "savings_high_street_fee": 8112,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6513,
+          "savings_percentage_of_valuation": 0.012525,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 530000,
+          "savings_high_street_fee": 8268,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6669,
+          "savings_percentage_of_valuation": 0.012583018867924529,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 540000,
+          "savings_high_street_fee": 8424,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6825,
+          "savings_percentage_of_valuation": 0.012638888888888889,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 550000,
+          "savings_high_street_fee": 8580,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 6981,
+          "savings_percentage_of_valuation": 0.012692727272727272,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 560000,
+          "savings_high_street_fee": 8736,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 7137,
+          "savings_percentage_of_valuation": 0.012744642857142857,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 570000,
+          "savings_high_street_fee": 8892,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 7293,
+          "savings_percentage_of_valuation": 0.012794736842105263,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 580000,
+          "savings_high_street_fee": 9048,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 7449,
+          "savings_percentage_of_valuation": 0.012843103448275862,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 590000,
+          "savings_high_street_fee": 9204,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 7605,
+          "savings_percentage_of_valuation": 0.012889830508474576,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 600000,
+          "savings_high_street_fee": 9360,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 7761,
+          "savings_percentage_of_valuation": 0.012935,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 610000,
+          "savings_high_street_fee": 9516,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 7917,
+          "savings_percentage_of_valuation": 0.012978688524590163,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 620000,
+          "savings_high_street_fee": 9672,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 8073,
+          "savings_percentage_of_valuation": 0.013020967741935483,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 630000,
+          "savings_high_street_fee": 9828,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 8229,
+          "savings_percentage_of_valuation": 0.013061904761904762,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 640000,
+          "savings_high_street_fee": 9984,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 8385,
+          "savings_percentage_of_valuation": 0.0131015625,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 650000,
+          "savings_high_street_fee": 10140,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 8541,
+          "savings_percentage_of_valuation": 0.01314,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 660000,
+          "savings_high_street_fee": 10296,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 8697,
+          "savings_percentage_of_valuation": 0.013177272727272727,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 670000,
+          "savings_high_street_fee": 10452,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 8853,
+          "savings_percentage_of_valuation": 0.013213432835820896,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 680000,
+          "savings_high_street_fee": 10608,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9009,
+          "savings_percentage_of_valuation": 0.013248529411764706,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 690000,
+          "savings_high_street_fee": 10764,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9165,
+          "savings_percentage_of_valuation": 0.013282608695652174,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 700000,
+          "savings_high_street_fee": 10920,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9321,
+          "savings_percentage_of_valuation": 0.013315714285714285,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 710000,
+          "savings_high_street_fee": 11076,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9477,
+          "savings_percentage_of_valuation": 0.013347887323943663,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 720000,
+          "savings_high_street_fee": 11232,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9633,
+          "savings_percentage_of_valuation": 0.013379166666666666,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 730000,
+          "savings_high_street_fee": 11388,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9789,
+          "savings_percentage_of_valuation": 0.01340958904109589,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 740000,
+          "savings_high_street_fee": 11544,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 9945,
+          "savings_percentage_of_valuation": 0.01343918918918919,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 750000,
+          "savings_high_street_fee": 11700,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 10101,
+          "savings_percentage_of_valuation": 0.013468,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 760000,
+          "savings_high_street_fee": 11856,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 10257,
+          "savings_percentage_of_valuation": 0.013496052631578947,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 770000,
+          "savings_high_street_fee": 12012,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 10413,
+          "savings_percentage_of_valuation": 0.013523376623376623,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 780000,
+          "savings_high_street_fee": 12168,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 10569,
+          "savings_percentage_of_valuation": 0.01355,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 790000,
+          "savings_high_street_fee": 12324,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 10725,
+          "savings_percentage_of_valuation": 0.013575949367088608,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 800000,
+          "savings_high_street_fee": 12480,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 10881,
+          "savings_percentage_of_valuation": 0.01360125,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 810000,
+          "savings_high_street_fee": 12636,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11037,
+          "savings_percentage_of_valuation": 0.013625925925925927,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 820000,
+          "savings_high_street_fee": 12792,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11193,
+          "savings_percentage_of_valuation": 0.01365,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 830000,
+          "savings_high_street_fee": 12948,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11349,
+          "savings_percentage_of_valuation": 0.013673493975903615,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 840000,
+          "savings_high_street_fee": 13104,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11505,
+          "savings_percentage_of_valuation": 0.013696428571428571,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 850000,
+          "savings_high_street_fee": 13260,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11661,
+          "savings_percentage_of_valuation": 0.013718823529411764,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 860000,
+          "savings_high_street_fee": 13416,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11817,
+          "savings_percentage_of_valuation": 0.013740697674418604,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 870000,
+          "savings_high_street_fee": 13572,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 11973,
+          "savings_percentage_of_valuation": 0.013762068965517241,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 880000,
+          "savings_high_street_fee": 13728,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 12129,
+          "savings_percentage_of_valuation": 0.013782954545454546,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 890000,
+          "savings_high_street_fee": 13884,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 12285,
+          "savings_percentage_of_valuation": 0.013803370786516854,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 900000,
+          "savings_high_street_fee": 14040,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 12441,
+          "savings_percentage_of_valuation": 0.013823333333333333,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 910000,
+          "savings_high_street_fee": 14196,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 12597,
+          "savings_percentage_of_valuation": 0.013842857142857143,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 920000,
+          "savings_high_street_fee": 14352,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 12753,
+          "savings_percentage_of_valuation": 0.013861956521739131,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 930000,
+          "savings_high_street_fee": 14508,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 12909,
+          "savings_percentage_of_valuation": 0.013880645161290322,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 940000,
+          "savings_high_street_fee": 14664,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 13065,
+          "savings_percentage_of_valuation": 0.013898936170212766,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 950000,
+          "savings_high_street_fee": 14820,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 13221,
+          "savings_percentage_of_valuation": 0.013916842105263158,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 960000,
+          "savings_high_street_fee": 14976,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 13377,
+          "savings_percentage_of_valuation": 0.013934375,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 970000,
+          "savings_high_street_fee": 15132,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 13533,
+          "savings_percentage_of_valuation": 0.013951546391752577,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 980000,
+          "savings_high_street_fee": 15288,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 13689,
+          "savings_percentage_of_valuation": 0.013968367346938775,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 990000,
+          "savings_high_street_fee": 15444,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 13845,
+          "savings_percentage_of_valuation": 0.013984848484848485,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1000000,
+          "savings_high_street_fee": 15600,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14001,
+          "savings_percentage_of_valuation": 0.014001,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1010000,
+          "savings_high_street_fee": 15756,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14157,
+          "savings_percentage_of_valuation": 0.014016831683168317,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1020000,
+          "savings_high_street_fee": 15912,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14313,
+          "savings_percentage_of_valuation": 0.01403235294117647,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1030000,
+          "savings_high_street_fee": 16068,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14469,
+          "savings_percentage_of_valuation": 0.01404757281553398,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1040000,
+          "savings_high_street_fee": 16224,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14625,
+          "savings_percentage_of_valuation": 0.0140625,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1050000,
+          "savings_high_street_fee": 16380,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14781,
+          "savings_percentage_of_valuation": 0.014077142857142858,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1060000,
+          "savings_high_street_fee": 16536,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 14937,
+          "savings_percentage_of_valuation": 0.014091509433962264,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1070000,
+          "savings_high_street_fee": 16692,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 15093,
+          "savings_percentage_of_valuation": 0.014105607476635513,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1080000,
+          "savings_high_street_fee": 16848,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 15249,
+          "savings_percentage_of_valuation": 0.014119444444444445,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1090000,
+          "savings_high_street_fee": 17004,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 15405,
+          "savings_percentage_of_valuation": 0.01413302752293578,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1100000,
+          "savings_high_street_fee": 17160,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 15561,
+          "savings_percentage_of_valuation": 0.014146363636363636,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1110000,
+          "savings_high_street_fee": 17316,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 15717,
+          "savings_percentage_of_valuation": 0.01415945945945946,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1120000,
+          "savings_high_street_fee": 17472,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 15873,
+          "savings_percentage_of_valuation": 0.014172321428571428,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1130000,
+          "savings_high_street_fee": 17628,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16029,
+          "savings_percentage_of_valuation": 0.014184955752212389,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1140000,
+          "savings_high_street_fee": 17784,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16185,
+          "savings_percentage_of_valuation": 0.014197368421052632,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1150000,
+          "savings_high_street_fee": 17940,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16341,
+          "savings_percentage_of_valuation": 0.014209565217391305,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1160000,
+          "savings_high_street_fee": 18096,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16497,
+          "savings_percentage_of_valuation": 0.01422155172413793,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1170000,
+          "savings_high_street_fee": 18252,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16653,
+          "savings_percentage_of_valuation": 0.014233333333333334,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1180000,
+          "savings_high_street_fee": 18408,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16809,
+          "savings_percentage_of_valuation": 0.014244915254237288,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1190000,
+          "savings_high_street_fee": 18564,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 16965,
+          "savings_percentage_of_valuation": 0.014256302521008403,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1200000,
+          "savings_high_street_fee": 18720,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 17121,
+          "savings_percentage_of_valuation": 0.0142675,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1210000,
+          "savings_high_street_fee": 18876,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 17277,
+          "savings_percentage_of_valuation": 0.014278512396694214,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1220000,
+          "savings_high_street_fee": 19032,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 17433,
+          "savings_percentage_of_valuation": 0.014289344262295082,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1230000,
+          "savings_high_street_fee": 19188,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 17589,
+          "savings_percentage_of_valuation": 0.0143,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1240000,
+          "savings_high_street_fee": 19344,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 17745,
+          "savings_percentage_of_valuation": 0.014310483870967741,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1250000,
+          "savings_high_street_fee": 19500,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 17901,
+          "savings_percentage_of_valuation": 0.0143208,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1260000,
+          "savings_high_street_fee": 19656,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18057,
+          "savings_percentage_of_valuation": 0.014330952380952382,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1270000,
+          "savings_high_street_fee": 19812,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18213,
+          "savings_percentage_of_valuation": 0.014340944881889764,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1280000,
+          "savings_high_street_fee": 19968,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18369,
+          "savings_percentage_of_valuation": 0.01435078125,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1290000,
+          "savings_high_street_fee": 20124,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18525,
+          "savings_percentage_of_valuation": 0.014360465116279069,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1300000,
+          "savings_high_street_fee": 20280,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18681,
+          "savings_percentage_of_valuation": 0.01437,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1310000,
+          "savings_high_street_fee": 20436,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18837,
+          "savings_percentage_of_valuation": 0.014379389312977098,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1320000,
+          "savings_high_street_fee": 20592,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 18993,
+          "savings_percentage_of_valuation": 0.014388636363636364,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1330000,
+          "savings_high_street_fee": 20748,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 19149,
+          "savings_percentage_of_valuation": 0.014397744360902255,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1340000,
+          "savings_high_street_fee": 20904,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 19305,
+          "savings_percentage_of_valuation": 0.014406716417910448,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1350000,
+          "savings_high_street_fee": 21060,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 19461,
+          "savings_percentage_of_valuation": 0.014415555555555555,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1360000,
+          "savings_high_street_fee": 21216,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 19617,
+          "savings_percentage_of_valuation": 0.014424264705882353,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1370000,
+          "savings_high_street_fee": 21372,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 19773,
+          "savings_percentage_of_valuation": 0.014432846715328468,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1380000,
+          "savings_high_street_fee": 21528,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 19929,
+          "savings_percentage_of_valuation": 0.014441304347826088,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1390000,
+          "savings_high_street_fee": 21684,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 20085,
+          "savings_percentage_of_valuation": 0.014449640287769783,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1400000,
+          "savings_high_street_fee": 21840,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 20241,
+          "savings_percentage_of_valuation": 0.014457857142857142,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1410000,
+          "savings_high_street_fee": 21996,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 20397,
+          "savings_percentage_of_valuation": 0.01446595744680851,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1420000,
+          "savings_high_street_fee": 22152,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 20553,
+          "savings_percentage_of_valuation": 0.014473943661971831,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1430000,
+          "savings_high_street_fee": 22308,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 20709,
+          "savings_percentage_of_valuation": 0.014481818181818183,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1440000,
+          "savings_high_street_fee": 22464,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 20865,
+          "savings_percentage_of_valuation": 0.014489583333333333,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1450000,
+          "savings_high_street_fee": 22620,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21021,
+          "savings_percentage_of_valuation": 0.014497241379310345,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1460000,
+          "savings_high_street_fee": 22776,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21177,
+          "savings_percentage_of_valuation": 0.014504794520547945,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1470000,
+          "savings_high_street_fee": 22932,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21333,
+          "savings_percentage_of_valuation": 0.014512244897959183,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1480000,
+          "savings_high_street_fee": 23088,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21489,
+          "savings_percentage_of_valuation": 0.014519594594594594,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1490000,
+          "savings_high_street_fee": 23244,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21645,
+          "savings_percentage_of_valuation": 0.014526845637583892,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1500000,
+          "savings_high_street_fee": 23400,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21801,
+          "savings_percentage_of_valuation": 0.014534,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1510000,
+          "savings_high_street_fee": 23556,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 21957,
+          "savings_percentage_of_valuation": 0.014541059602649007,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1520000,
+          "savings_high_street_fee": 23712,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 22113,
+          "savings_percentage_of_valuation": 0.014548026315789473,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1530000,
+          "savings_high_street_fee": 23868,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 22269,
+          "savings_percentage_of_valuation": 0.014554901960784314,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1540000,
+          "savings_high_street_fee": 24024,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 22425,
+          "savings_percentage_of_valuation": 0.014561688311688312,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1550000,
+          "savings_high_street_fee": 24180,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 22581,
+          "savings_percentage_of_valuation": 0.014568387096774193,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1560000,
+          "savings_high_street_fee": 24336,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 22737,
+          "savings_percentage_of_valuation": 0.014575,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1570000,
+          "savings_high_street_fee": 24492,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 22893,
+          "savings_percentage_of_valuation": 0.014581528662420382,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1580000,
+          "savings_high_street_fee": 24648,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23049,
+          "savings_percentage_of_valuation": 0.014587974683544305,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1590000,
+          "savings_high_street_fee": 24804,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23205,
+          "savings_percentage_of_valuation": 0.014594339622641509,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1600000,
+          "savings_high_street_fee": 24960,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23361,
+          "savings_percentage_of_valuation": 0.014600625,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1610000,
+          "savings_high_street_fee": 25116,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23517,
+          "savings_percentage_of_valuation": 0.014606832298136646,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1620000,
+          "savings_high_street_fee": 25272,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23673,
+          "savings_percentage_of_valuation": 0.014612962962962963,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1630000,
+          "savings_high_street_fee": 25428,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23829,
+          "savings_percentage_of_valuation": 0.014619018404907976,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1640000,
+          "savings_high_street_fee": 25584,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 23985,
+          "savings_percentage_of_valuation": 0.014625,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1650000,
+          "savings_high_street_fee": 25740,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 24141,
+          "savings_percentage_of_valuation": 0.01463090909090909,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1660000,
+          "savings_high_street_fee": 25896,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 24297,
+          "savings_percentage_of_valuation": 0.014636746987951808,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1670000,
+          "savings_high_street_fee": 26052,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 24453,
+          "savings_percentage_of_valuation": 0.01464251497005988,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1680000,
+          "savings_high_street_fee": 26208,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 24609,
+          "savings_percentage_of_valuation": 0.014648214285714285,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1690000,
+          "savings_high_street_fee": 26364,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 24765,
+          "savings_percentage_of_valuation": 0.014653846153846154,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1700000,
+          "savings_high_street_fee": 26520,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 24921,
+          "savings_percentage_of_valuation": 0.014659411764705883,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1710000,
+          "savings_high_street_fee": 26676,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 25077,
+          "savings_percentage_of_valuation": 0.014664912280701754,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1720000,
+          "savings_high_street_fee": 26832,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 25233,
+          "savings_percentage_of_valuation": 0.014670348837209302,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1730000,
+          "savings_high_street_fee": 26988,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 25389,
+          "savings_percentage_of_valuation": 0.014675722543352601,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1740000,
+          "savings_high_street_fee": 27144,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 25545,
+          "savings_percentage_of_valuation": 0.01468103448275862,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1750000,
+          "savings_high_street_fee": 27300,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 25701,
+          "savings_percentage_of_valuation": 0.014686285714285714,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1760000,
+          "savings_high_street_fee": 27456,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 25857,
+          "savings_percentage_of_valuation": 0.014691477272727273,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1770000,
+          "savings_high_street_fee": 27612,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26013,
+          "savings_percentage_of_valuation": 0.014696610169491526,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1780000,
+          "savings_high_street_fee": 27768,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26169,
+          "savings_percentage_of_valuation": 0.014701685393258427,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1790000,
+          "savings_high_street_fee": 27924,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26325,
+          "savings_percentage_of_valuation": 0.014706703910614525,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1800000,
+          "savings_high_street_fee": 28080,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26481,
+          "savings_percentage_of_valuation": 0.014711666666666666,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1810000,
+          "savings_high_street_fee": 28236,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26637,
+          "savings_percentage_of_valuation": 0.01471657458563536,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1820000,
+          "savings_high_street_fee": 28392,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26793,
+          "savings_percentage_of_valuation": 0.014721428571428571,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1830000,
+          "savings_high_street_fee": 28548,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 26949,
+          "savings_percentage_of_valuation": 0.014726229508196721,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1840000,
+          "savings_high_street_fee": 28704,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 27105,
+          "savings_percentage_of_valuation": 0.014730978260869566,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1850000,
+          "savings_high_street_fee": 28860,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 27261,
+          "savings_percentage_of_valuation": 0.014735675675675675,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1860000,
+          "savings_high_street_fee": 29016,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 27417,
+          "savings_percentage_of_valuation": 0.01474032258064516,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1870000,
+          "savings_high_street_fee": 29172,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 27573,
+          "savings_percentage_of_valuation": 0.014744919786096256,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1880000,
+          "savings_high_street_fee": 29328,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 27729,
+          "savings_percentage_of_valuation": 0.014749468085106384,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1890000,
+          "savings_high_street_fee": 29484,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 27885,
+          "savings_percentage_of_valuation": 0.014753968253968254,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1900000,
+          "savings_high_street_fee": 29640,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28041,
+          "savings_percentage_of_valuation": 0.014758421052631579,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1910000,
+          "savings_high_street_fee": 29796,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28197,
+          "savings_percentage_of_valuation": 0.01476282722513089,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1920000,
+          "savings_high_street_fee": 29952,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28353,
+          "savings_percentage_of_valuation": 0.0147671875,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1930000,
+          "savings_high_street_fee": 30108,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28509,
+          "savings_percentage_of_valuation": 0.014771502590673575,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1940000,
+          "savings_high_street_fee": 30264,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28665,
+          "savings_percentage_of_valuation": 0.014775773195876288,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1950000,
+          "savings_high_street_fee": 30420,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28821,
+          "savings_percentage_of_valuation": 0.01478,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1960000,
+          "savings_high_street_fee": 30576,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 28977,
+          "savings_percentage_of_valuation": 0.014784183673469387,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1970000,
+          "savings_high_street_fee": 30732,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 29133,
+          "savings_percentage_of_valuation": 0.014788324873096446,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1980000,
+          "savings_high_street_fee": 30888,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 29289,
+          "savings_percentage_of_valuation": 0.014792424242424242,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 1990000,
+          "savings_high_street_fee": 31044,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 29445,
+          "savings_percentage_of_valuation": 0.014796482412060302,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        },
+        {
+          "savings_valuation_amount": 2000000,
+          "savings_high_street_fee": 31200,
+          "savings_purplebricks_fee": 1599,
+          "savings_amount": 29601,
+          "savings_percentage_of_valuation": 0.0148005,
+          "savings_property_value_tier": "300000 and above",
+          "savings_eligible": true,
+          "savings_calculator_version": "2026-09-24"
+        }
+      ]
+    }
+  }
+}
